@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-02T21:22:52.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="EM5cMhGZFnYqjv7MekX6" version="12.2.7" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-04T23:58:57.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="hvtvWEDislOqIOZirUu_" version="12.2.7" type="github" pages="3">
   <diagram name="amer" id="3icEu7I5XqVcEI4lYJHm">
-    <mxGraphModel dx="3472" dy="2210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -1178,7 +1178,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="flEDfQ80bX9VU2n6ByOx" name="emea">
-    <mxGraphModel dx="2111" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6wyxrHHf_I9BklUDtam6-0"/>
         <mxCell id="6wyxrHHf_I9BklUDtam6-1" parent="6wyxrHHf_I9BklUDtam6-0"/>
@@ -1230,6 +1230,14 @@
             <Array as="points">
               <mxPoint x="250" y="530"/>
               <mxPoint x="250" y="708"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YkSjpDKU50lHgGZ_SzZW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="6wyxrHHf_I9BklUDtam6-1" source="85VXtthlD1fGDL5kLzPd-0" target="YkSjpDKU50lHgGZ_SzZW-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="571"/>
+              <mxPoint x="270" y="819"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1471,7 +1479,16 @@
           <mxGeometry x="-170.5" y="580" width="90" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="bR0aYwPTvaoQX3hOwyPe-0" value="Abandoned cart email" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="6wyxrHHf_I9BklUDtam6-1">
-          <mxGeometry x="-0.5" y="675" width="101" height="67" as="geometry"/>
+          <mxGeometry y="675" width="91" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="xBPHdir1unGCAwgTeKdS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="6wyxrHHf_I9BklUDtam6-1" source="xBPHdir1unGCAwgTeKdS-0" target="85VXtthlD1fGDL5kLzPd-0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xBPHdir1unGCAwgTeKdS-0" value="core media content" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;" vertex="1" parent="6wyxrHHf_I9BklUDtam6-1">
+          <mxGeometry x="-1" y="368" width="101" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="YkSjpDKU50lHgGZ_SzZW-0" value="Bazaarvoice&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6wyxrHHf_I9BklUDtam6-1">
+          <mxGeometry x="-1" y="797" width="91" height="43" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
