@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-05T00:02:00.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="CdcOQniIMjmHCnk_0JWX" version="12.2.7" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-05T19:42:09.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="QkOjX5GSu_TgjvXJZajk" version="12.2.7" type="github" pages="3">
   <diagram name="amer" id="3icEu7I5XqVcEI4lYJHm">
-    <mxGraphModel dx="2977" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2764" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -536,7 +536,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TWL4DVWHpw3BuLWVAcTx-5" value="KWI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="215" y="-300" width="120" height="40" as="geometry"/>
+          <mxGeometry x="216" y="-300" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="TWL4DVWHpw3BuLWVAcTx-6" value="stores POS systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="-300" width="100" height="40" as="geometry"/>
@@ -594,7 +594,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TWL4DVWHpw3BuLWVAcTx-22" value="salsify" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-695" y="45" width="60" height="175" as="geometry"/>
+          <mxGeometry x="-695" y="48" width="60" height="175" as="geometry"/>
         </mxCell>
         <mxCell id="TWL4DVWHpw3BuLWVAcTx-33" value="data lake" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="420" y="-100" width="120" height="40" as="geometry"/>
@@ -1246,6 +1246,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IHUaR-swCfF4pB_7wrPp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;exitX=0.003;exitY=0.946;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6wyxrHHf_I9BklUDtam6-1" source="85VXtthlD1fGDL5kLzPd-0" target="IHUaR-swCfF4pB_7wrPp-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="588"/>
+              <mxPoint x="290" y="929"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="85VXtthlD1fGDL5kLzPd-0" value="SFCC UK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="6wyxrHHf_I9BklUDtam6-1">
           <mxGeometry x="380" y="200" width="140" height="410" as="geometry"/>
         </mxCell>
@@ -1526,6 +1534,9 @@
         </mxCell>
         <mxCell id="YkSjpDKU50lHgGZ_SzZW-0" value="Bazaarvoice&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6wyxrHHf_I9BklUDtam6-1">
           <mxGeometry x="-1" y="797" width="91" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="IHUaR-swCfF4pB_7wrPp-7" value="google product feed" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;" vertex="1" parent="6wyxrHHf_I9BklUDtam6-1">
+          <mxGeometry x="-1" y="897" width="91" height="63" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
