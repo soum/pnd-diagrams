@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T22:19:10.296Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="v4gBADrBTdTvLIr4LiaW" version="12.2.7" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-10T22:19:30.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="8FeFmyklfF5I7Bpt9gnS" version="12.2.7" type="github" pages="5">
   <diagram name="amer" id="3icEu7I5XqVcEI4lYJHm">
     <mxGraphModel dx="3392" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1765,6 +1765,14 @@
             <mxPoint x="220" y="820" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NQrcNtSmO0Lrv8t3ksN_" name="click and collect">
+    <mxGraphModel dx="846" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="bjkeFopICWbDzWuyQlB4-0"/>
+        <mxCell id="bjkeFopICWbDzWuyQlB4-1" parent="bjkeFopICWbDzWuyQlB4-0"/>
       </root>
     </mxGraphModel>
   </diagram>
