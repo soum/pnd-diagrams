@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T22:38:41.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="DWTFU4flZq_vHDlB_7bJ" version="12.2.7" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-12-11T22:41:45.887Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="GC3ExI2RlBF4hbkfpMNH" version="12.2.7" type="github" pages="5">
   <diagram name="amer" id="3icEu7I5XqVcEI4lYJHm">
     <mxGraphModel dx="3392" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1399,7 +1399,7 @@
         <mxCell id="85VXtthlD1fGDL5kLzPd-2" value="StoreFinancial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6wyxrHHf_I9BklUDtam6-1">
           <mxGeometry x="190" y="-135" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="IHUaR-swCfF4pB_7wrPp-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="6wyxrHHf_I9BklUDtam6-1" source="KZ4mBXxhlnbdgaMbsIXb-5" target="85VXtthlD1fGDL5kLzPd-0">
+        <mxCell id="IHUaR-swCfF4pB_7wrPp-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.22;entryDx=0;entryDy=0;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="6wyxrHHf_I9BklUDtam6-1" source="KZ4mBXxhlnbdgaMbsIXb-5" target="85VXtthlD1fGDL5kLzPd-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="274.66666666666697" as="sourcePoint"/>
           </mxGeometry>
