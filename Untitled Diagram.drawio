@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-01T23:38:58.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="87CeEVq4HNDUq2C1Vgh6" version="12.4.7" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-01-04T16:15:49.683Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="OTFhLEU-leai8EkemcDo" version="12.4.8" type="github" pages="6">
   <diagram name="amer" id="3icEu7I5XqVcEI4lYJHm">
-    <mxGraphModel dx="2579" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2626" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -571,10 +571,10 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TWL4DVWHpw3BuLWVAcTx-5" value="KWI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="TWL4DVWHpw3BuLWVAcTx-5" value="BizTalk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="216" y="-300" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="TWL4DVWHpw3BuLWVAcTx-6" value="stores POS systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="TWL4DVWHpw3BuLWVAcTx-6" value="KWI&lt;br&gt;(pos)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="-300" width="100" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="TWL4DVWHpw3BuLWVAcTx-7" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TWL4DVWHpw3BuLWVAcTx-6" target="TWL4DVWHpw3BuLWVAcTx-5" edge="1">
